@@ -1,5 +1,13 @@
 <img src="sqlited-logo-text-black.jpeg" width="40%" alt="sqlited logo">
 
+[Website](https://sqlited.org) |
+[Documentation](https://sqlited.org/docs/) |
+[Download](https://sqlited.org/downloads/) |
+[Contributing](CONTRIBUTING.md) |
+[Changelog](https://sqlited.org/changelog/) |
+[Installation](https://sqlited.org/install/) |
+[Forum](https://forum.sqlited.org/)
+
 [![Experimental](https://img.shields.io/badge/status-experimental-orange.svg)](https://shields.io/)
 [![CI](https://github.com/kqlite/kqlite/actions/workflows/ci.yml/badge.svg)](https://github.com/kqlite/kqlite/actions/workflows/go.yml) 
 [![Go Report Card](https://goreportcard.com/badge/github.com/kqlite/kqlite)](https://goreportcard.com/report/github.com/kqlite/kqlite)
