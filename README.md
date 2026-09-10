@@ -1,4 +1,4 @@
-<img src="sqlited-logo-text-black.png" width="50%" alt="sqlited logo">
+<img src="sqlited-logo-text-black.png" width="30%" alt="sqlited logo">
 
 [Website](https://sqlited.org) |
 [Documentation](https://sqlited.org/docs/) |
